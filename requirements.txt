@@ -1,0 +1,8 @@
+os                                                               
+pickle                                                           
+numpy as np                                                      
+cv2                                                              
+face_recognition                                                 
+cvzone                                                           
+firebase_admin 
+streamlit
