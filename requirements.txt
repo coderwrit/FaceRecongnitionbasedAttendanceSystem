@@ -1,6 +1,6 @@
 os                                                               
 pickle                                                           
-numpy as np                                                      
+numpy                                                      
 cv2                                                              
 face_recognition                                                 
 cvzone                                                           
